@@ -1,2 +1,2 @@
 # Inteligencia-artificial
-Repositorio das práticas de IA
+ repositório das práticas e teoria de IA 
